@@ -1,4 +1,23 @@
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h1 align="center"> About me </h1>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dearmytwilight&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/dearmytwilight?pet-id=749981057647745201"
+    width="600"
+    height="120"
+  />
+</a>
+
+<h3 align="center">🎓 Education </h3>
+<h4 align="center"> <div align="center">School of AI Convergence - B.S </div>
+  <div align="center"> Department of Convergence Security Engineering </div> </h4>
+
+<h3 align="center">🚀 Interests </h3>
+<h4 align="center"> <div align="center">Backend Development </div>
+  <div align="center"> AI / Machine Learning Development </div> </h4>
+
+<br>
+
+<h1 align="center"> Tech Stack </h1>
 
 <br>
 
@@ -68,3 +87,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
